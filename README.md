@@ -47,9 +47,9 @@ Once the user registers, the other pages are accessible. The user can see their 
 
 * Modals with events, classifieds posted by logged in user
 
-    The events/classifieds link opens modals with info about the evets/listings posted by the user who is logged in.
+    The events/classifieds link opens  with info about the evets/listings posted by the user who is logged in.
 
-![Screenshot](/client/public/images/modals.png)
+![Screenshot](/client/public/images/usereventslistings.png)
 
 
 #### Events page
