@@ -1,6 +1,6 @@
 # NeighborGood
 
-https://neighborgood1.herokuapp.com
+[https://neighborgood1.herokuapp.com]
 
 Application where you would have a neighborhood associated with their account. We will have a user login function, a classifieds section for sales, services, etc. We will have a section for upcoming neighborhood events such as: HOA meetings, Block parties, and yard sales. The idea is to have real world neighborhood would register for this site.
 
